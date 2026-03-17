@@ -1,0 +1,1 @@
+export const emitToast = (msg, type) => console.log(type, msg);
